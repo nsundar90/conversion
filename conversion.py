@@ -4,3 +4,5 @@ def cm(m):
     return 100*m
 def hours(M):
     return (M*60)
+def inches(f)
+    return f*12
